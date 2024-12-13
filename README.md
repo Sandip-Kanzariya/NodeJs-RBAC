@@ -1,5 +1,16 @@
 # Backend for Role-Based-Authentication 
 
+## Clone this Repo 
+```
+git clone https://github.com/Sandip-Kanzariya/NodeJs-RBAC.git
+
+npm install 
+
+npm run dev 
+```
+
+## Steps from scratch 
+
 ### Initialize NodeJs project
 ```
 npm init -y
@@ -44,3 +55,13 @@ JWT_SECRET =
 ```
 npm i cors
 ```
+
+### Roles 
+1. Teacher 
+2. Student 
+
+### Features : 
+
+> 1. Registration and Login For all Roles.
+> 2. JWT Token 
+> 3. Protected End Points for all Roles 
