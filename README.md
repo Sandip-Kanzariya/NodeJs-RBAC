@@ -39,3 +39,8 @@ JWT_SECRET =
 ### Test Endpoints
 
 [Postman APIs](https://www.postman.com/sandip-kanzariya/workspace/nodejs-rbac/collection/26057927-c1bb6af0-0ab3-4519-a1d5-0e6b3174c1a9?action=share&creator=26057927)
+
+### Eanble Cors for Cross origin access 
+```
+npm i cors
+```
